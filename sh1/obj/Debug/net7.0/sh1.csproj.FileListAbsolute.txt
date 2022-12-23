@@ -1,0 +1,15 @@
+/Users/darinaisaeva/sharp/sh1/bin/Debug/net7.0/sh1
+/Users/darinaisaeva/sharp/sh1/bin/Debug/net7.0/sh1.deps.json
+/Users/darinaisaeva/sharp/sh1/bin/Debug/net7.0/sh1.runtimeconfig.json
+/Users/darinaisaeva/sharp/sh1/bin/Debug/net7.0/sh1.dll
+/Users/darinaisaeva/sharp/sh1/bin/Debug/net7.0/sh1.pdb
+/Users/darinaisaeva/sharp/sh1/obj/Debug/net7.0/sh1.csproj.AssemblyReference.cache
+/Users/darinaisaeva/sharp/sh1/obj/Debug/net7.0/sh1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darinaisaeva/sharp/sh1/obj/Debug/net7.0/sh1.AssemblyInfoInputs.cache
+/Users/darinaisaeva/sharp/sh1/obj/Debug/net7.0/sh1.AssemblyInfo.cs
+/Users/darinaisaeva/sharp/sh1/obj/Debug/net7.0/sh1.csproj.CoreCompileInputs.cache
+/Users/darinaisaeva/sharp/sh1/obj/Debug/net7.0/sh1.dll
+/Users/darinaisaeva/sharp/sh1/obj/Debug/net7.0/refint/sh1.dll
+/Users/darinaisaeva/sharp/sh1/obj/Debug/net7.0/sh1.pdb
+/Users/darinaisaeva/sharp/sh1/obj/Debug/net7.0/sh1.genruntimeconfig.cache
+/Users/darinaisaeva/sharp/sh1/obj/Debug/net7.0/ref/sh1.dll
